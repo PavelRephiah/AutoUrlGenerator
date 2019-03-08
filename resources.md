@@ -3,10 +3,10 @@
 ---------------------------------------------------------
 - Create vocabulary and command cheatsheet doc
     - resources:
-        - https://juristr.com/blog/2013/04/git-explained/
+        - https://juristr.com/blog/2013/04/git-explained/ (great for starting, good references)
         - https://git-scm.com/book/en/v1/Getting-Started-Git-Basics (done)
-        - https://blog.thoughtram.io/git/rebase-book/2015/02/10/understanding-branches-in-git.html
-        - https://www.atlassian.com/git/glossary/terminology
+        - https://blog.thoughtram.io/git/rebase-book/2015/02/10/understanding-branches-in-git.html (done)
+        - https://www.atlassian.com/git/glossary/terminology (done)
 
 
 # TODO
